@@ -35,5 +35,7 @@ Azure Policy is a strong management tool that needs to be very well-structured a
 ---
 ### Demo Video Link.
 
+https://drive.google.com/file/d/1wcsVwmXzrpWw3HOpk-pAAV0COOohxKhv/view?usp=sharing
+
 This lab was a lesson on the importance of proactive governance and the authority that can be pursued through automation to ensure compliance over manual governance.
 
