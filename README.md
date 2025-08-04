@@ -8,7 +8,7 @@ In this lab, you are going to learn how to achieve structure, security and compl
 ### 1. **Only-CanadaCentral**
 - **Effect**: Deny
 - **Description**: Prevents the creation of any resource which is not being deployed in the **Canada Central** region.
--Purpose: Violates geographic compliances and data residency regulations.
+-  Purpose: Violates geographic compliances and data residency regulations.
 
 ### 2. **Require-ProjectName-Tag**
 - **Effect**: Deny
